@@ -1,0 +1,13 @@
+C:\Users\HP\csharp\CoffeMaker\CoffeMaker\bin\Debug\netcoreapp3.1\CoffeMaker.exe
+C:\Users\HP\csharp\CoffeMaker\CoffeMaker\bin\Debug\netcoreapp3.1\CoffeMaker.deps.json
+C:\Users\HP\csharp\CoffeMaker\CoffeMaker\bin\Debug\netcoreapp3.1\CoffeMaker.runtimeconfig.json
+C:\Users\HP\csharp\CoffeMaker\CoffeMaker\bin\Debug\netcoreapp3.1\CoffeMaker.runtimeconfig.dev.json
+C:\Users\HP\csharp\CoffeMaker\CoffeMaker\bin\Debug\netcoreapp3.1\CoffeMaker.dll
+C:\Users\HP\csharp\CoffeMaker\CoffeMaker\bin\Debug\netcoreapp3.1\CoffeMaker.pdb
+C:\Users\HP\csharp\CoffeMaker\CoffeMaker\obj\Debug\netcoreapp3.1\CoffeMaker.csproj.AssemblyReference.cache
+C:\Users\HP\csharp\CoffeMaker\CoffeMaker\obj\Debug\netcoreapp3.1\CoffeMaker.AssemblyInfoInputs.cache
+C:\Users\HP\csharp\CoffeMaker\CoffeMaker\obj\Debug\netcoreapp3.1\CoffeMaker.AssemblyInfo.cs
+C:\Users\HP\csharp\CoffeMaker\CoffeMaker\obj\Debug\netcoreapp3.1\CoffeMaker.csproj.CoreCompileInputs.cache
+C:\Users\HP\csharp\CoffeMaker\CoffeMaker\obj\Debug\netcoreapp3.1\CoffeMaker.dll
+C:\Users\HP\csharp\CoffeMaker\CoffeMaker\obj\Debug\netcoreapp3.1\CoffeMaker.pdb
+C:\Users\HP\csharp\CoffeMaker\CoffeMaker\obj\Debug\netcoreapp3.1\CoffeMaker.genruntimeconfig.cache
